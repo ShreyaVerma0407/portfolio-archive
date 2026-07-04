@@ -1,102 +1,141 @@
-# Shreya Verma | Portfolio Website
+<div align="center">
 
-This is my personal portfolio website showcasing my skills, projects, education, and contact information. Built with modern web technologies, it features a clean, responsive design with interactive elements and a downloadable resume.
+# 🌐 Portfolio Website
 
----
+🚀 A modern, responsive portfolio website showcasing my skills, projects, experience, and research work as a **Full-Stack Developer & AI/ML Enthusiast**.
 
-## 🎯 Project Features
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Clean, modern, and responsive design** — utilizes glassmorphism effect on header and footer.
-- **Sticky navigation header** with smooth scroll to different sections.
-- **Sidebar** with profile picture, availability toggle, social links, and resume download button.
-- **Sections include:** Hero/Intro, Experience, Projects, Education, Tech Stacks, Contact Form.
-- **Interactive contact form** integrated with EmailJS for messaging.
-- **Scroll reveal animations** for enhanced user experience.
-- **Projects link to GitHub repositories.**
-- **Accessibility support** with ARIA attributes and keyboard navigation.
 
----
 
-## 🚀 Technologies Used
+</div>
 
-- HTML5 & CSS3 (Flexbox, Grid, variables)
-- JavaScript (ES6+)
-- Font Awesome (Icons)
-- Google Fonts (Inter, Great Vibes)
-- EmailJS (for contact form)
-- Responsive design with media queries
-- UI/UX design inspired by Figma and Canva
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2500&pause=800&color=5B8CFF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;UI%2FUX+Focused+Builder;Welcome+to+my+Portfolio+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
+<div align="center">
+
+**[✨ Features](#-features) · [🛠️ Tech Stack](#️-tech-stack) · [🚀 Getting Started](#-getting-started) · [📸 Sections](#-sections-included) · [📬 Contact](#-contact)**
+
+</div>
 
 ---
 
-## 📁 Project Structure
+## 🧠 About This Project
 
+This portfolio is designed to present my work in a clean, interactive, and developer-friendly way.
+It highlights my journey, technical skills, and real-world projects — built with a dark, gradient-driven UI, smooth scroll animations, and a focus on performance.
+
+<br>
+
+## ⚡ Features
+
+<table>
+<tr>
+<td width="50%">
+
+🎨 **Modern, premium developer-portfolio UI**
+🌌 **Animated smoky gradient background**
+⚡ **Smooth scroll-based reveal animations**
+⌨️ **Typewriter effect on intro name**
+📱 **Fully responsive across devices**
+
+</td>
+<td width="50%">
+
+🧩 **Split-card project showcase with tech tags**
+🧑‍💻 **Experience, Research & Certifications sections**
+📰 **Articles section for write-ups**
+📬 **Icon-based social contact section**
+🌙 **Clean, minimal dark theme**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+<br>
+
+## 🚀 Getting Started
+
+<details>
+<summary><b>Click to expand setup steps</b> 👇</summary>
+
+<br>
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/shreyaverma0407/portfolio.git
 ```
-README.md                   # This file
-cv.html                     # Main portfolio HTML file
-styles.css                  # Main stylesheet
-image.png                   # Project image 1
-image1.png                  # Project image 2
-image2.png                  # Project image 3
-image3.png                  # Project image 4
-profile.png                 # Profile picture image
-Shreya_Verma_CV.pdf         # Downloadable resume PDF
+
+**2. Move into the project folder**
+```bash
+cd portfolio
 ```
 
----
+**3. Open it locally**
+```bash
+open index.html
+```
 
-## 📄 How to Use
+That's it — no build step, no dependencies. 🎉
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/your-portfolio-repo.git
-    ```
+</details>
 
-2. **Open `cv.html` in your web browser** to view the portfolio.
+<br>
 
-3. **Update personal information, project details, and links** in `cv.html` as needed.
+## 📸 Sections Included
 
-4. **Ensure all referenced images** (`image.png`, `image1.png`, etc.) are in the same folder as `cv.html`.
+| | Section | Description |
+|---|---|---|
+| 🏠 | **Hero / Intro** | Animated introduction with typewriter effect |
+| 💼 | **Experience** | Roles, fests, and website projects worked on |
+| 🧪 | **Projects** | Featured builds with tech stacks & links |
+| 📰 | **Articles** | Write-ups and blog-style entries |
+| 🔬 | **Research** | Research work and findings |
+| 🏅 | **Certifications** | Verified courses & credentials |
+| 🎓 | **Education** | Academic background & achievements |
+| 🧰 | **Tech Stack** | Tools & technologies I work with |
+| 📬 | **Contact** | Ways to reach out and connect |
 
-5. The **"Download Resume"** button links to `Shreya_Verma_CV.pdf` for easy downloading.
+<br>
 
-6. To enable contact form functionality, **configure [EmailJS](https://www.emailjs.com/)** with your own service/template keys inside the HTML file.
+## 📬 Contact
 
----
+<div align="center">
 
-## 📩 Contact Form Configuration
+[![Email](https://img.shields.io/badge/Email-vshreya0407%40gmail.com-5B8CFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshreya0407@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shreyaverma0407-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyaverma0407)
 
-This website uses EmailJS to send messages without requiring a backend:
+</div>
 
-1. **Replace the Public API key** in the script section of `cv.html`:
-
-    ```js
-    emailjs.init("YOUR_PUBLIC_API_KEY");
-    ```
-
-2. **Replace Service and Template IDs** in the form submission code:
-
-    ```js
-    emailjs.send("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", templateParams)
-    ```
-
-3. See the [EmailJS documentation](https://www.emailjs.com/docs/) for setup instructions.
-
----
-
-## ✨ Credits
-
-- UI/UX inspired by Figma and Canva
-- Icons from [Font Awesome](https://fontawesome.com/)
-- Fonts: [Inter](https://fonts.google.com/specimen/Inter), [Great Vibes](https://fonts.google.com/specimen/Great+Vibes)
-- Contact form powered by [EmailJS](https://www.emailjs.com/)
+<br>
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-Feel free to reach out via the contact form on the website or connect with me on [LinkedIn](https://linkedin.com/in/shreyaverma0407) or [GitHub](https://github.com/ShreyaVerma0407).
+### ⭐ Show Your Support
 
----
+If you like this project, consider giving it a **star** on GitHub — it helps a lot!
 
-*Made with ❤️ by Shreya Verma*
+
+<sub>Made with 💙 by Shreya Verma</sub>
+
+</div>
